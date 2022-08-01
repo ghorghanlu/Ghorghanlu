@@ -10,14 +10,14 @@
 <hr /> 
 
 ### ![learning](https://user-images.githubusercontent.com/62830901/182258659-e56c86c7-005b-4512-ad81-ab75e09f7f31.png) &nbsp; Education:
-* 2019 – Present &nbsp; **PhD Student, Medical Biotechnology** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Tehran University of Medical Sciences, Tehran, Iran_
-* 2012 – 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Master of Science (MSc), Medical Biotechnology** &nbsp;&nbsp;&nbsp; _Tabriz University of Medical Sciences, Tabriz, Iran_
-* 2008 – 2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bachelor's Degree, Clinical Laboratory Sciences** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Zanjan University of Medical Sciences, Zanjan, Iran_
+* 2019 – Present &nbsp; **PhD Student, Medical Biotechnology** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Tehran University of Medical Sciences_
+* 2012 – 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Master of Science (MSc), Medical Biotechnology** &nbsp;&nbsp;&nbsp; _Tabriz University of Medical Sciences_
+* 2008 – 2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bachelor's Degree, Clinical Laboratory Sciences** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Zanjan University of Medical Sciences_
 
 <hr /> 
 
 ### ![experience](https://user-images.githubusercontent.com/62830901/182259743-64d5be12-eba1-413a-9699-d015be2145ca.png) &nbsp; Experience:
-* 2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant** &nbsp;&nbsp;&nbsp; _Ischemic Disorders Research Center, Gorgan, Iran_
+* 2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant** &nbsp;&nbsp;&nbsp; _Golestan University of Medical Sciences_
 
 
 
