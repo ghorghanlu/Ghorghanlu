@@ -2,6 +2,10 @@
 
 <hr /> 
 
+* 👨🏼‍💻 &nbsp;&nbsp; **I :heart: ML & AI**
+* :heart_eyes: &nbsp;&nbsp; **I'm interested in** &nbsp;&nbsp; ![python](https://user-images.githubusercontent.com/62830901/182261375-b900f7c7-4d44-4d65-be58-e06e5915f97f.png) &nbsp; ![pytorch](https://user-images.githubusercontent.com/62830901/182262072-8977ceee-50e2-4ce2-8e3c-bb1e70283199.png) &nbsp; ![pyg](https://user-images.githubusercontent.com/62830901/182262308-b305d9ca-c27f-40b6-b534-070ef7f44dc9.png)
+
+
 
 <hr /> 
 
