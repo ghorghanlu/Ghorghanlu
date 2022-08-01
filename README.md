@@ -2,7 +2,6 @@
 
 
 <br/>
-<br/>
 
 ### ![learning](https://user-images.githubusercontent.com/62830901/182258659-e56c86c7-005b-4512-ad81-ab75e09f7f31.png) &nbsp; **Education:**
 * 2019 – Present &nbsp; **PhD Student, Medical Biotechnology** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Tehran University of Medical Sciences, Tehran, Iran_
