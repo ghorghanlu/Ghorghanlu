@@ -16,15 +16,3 @@
 
 ### ![experience](https://user-images.githubusercontent.com/62830901/182259743-64d5be12-eba1-413a-9699-d015be2145ca.png) &nbsp; Experience:
 * 2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant** &nbsp;&nbsp;&nbsp; _Golestan University of Medical Sciences_
-
-
-<br>
-
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ghorghanlu&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghorghanlu&hide=html&layout=compact&theme=highcontrast" />
- 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
- </details>
