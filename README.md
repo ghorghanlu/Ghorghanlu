@@ -18,6 +18,7 @@
 * 2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant** &nbsp;&nbsp;&nbsp; _Golestan University of Medical Sciences_
 
 
+<br>
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
