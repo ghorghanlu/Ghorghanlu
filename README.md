@@ -34,19 +34,19 @@
 ### Technologies & Tools
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Dioxus-1F2937?style=for-the-badge&logo=rust&logoColor=white" alt="Dioxus"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Geometric"/>
-  <img src="https://img.shields.io/badge/Hermes%20Agent-6B46C1?style=for-the-badge&logo=probot&logoColor=white" alt="Hermes Agent"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Dioxus-1F2937?style=flat&logo=rust&logoColor=white" alt="Dioxus"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Geometric"/>
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6B46C1?style=flat&logo=probot&logoColor=white" alt="Hermes Agent"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex"/>
 </div>
 
 ### My Organization
 
 <a href="https://github.com/Super-Entity">
-  <img src="https://img.shields.io/badge/GitHub%20Organization-Super--Entity-181717?style=for-the-badge&logo=github&logoColor=white" alt="SuperEntity Organization"/>
+  <img src="https://img.shields.io/badge/GitHub%20Organization-Super--Entity-181717?style=flat&logo=github&logoColor=white" alt="SuperEntity Organization"/>
 </a>
