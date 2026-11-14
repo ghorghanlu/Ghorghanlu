@@ -1,6 +1,44 @@
-[![google](https://user-images.githubusercontent.com/62830901/182251502-db238ab8-74fb-4dd6-a658-9acb90160423.png)](https://scholar.google.com/citations?hl=en&user=iIkrTYgAAAAJ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![twitter](https://user-images.githubusercontent.com/62830901/182251405-7639aef3-08ce-46dc-b736-644fc38ad6a5.png)](https://twitter.com/ghorghanlu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![instagram](https://user-images.githubusercontent.com/62830901/182251262-0b503710-9d36-49f8-8a68-0ba5b059263b.png)](https://www.instagram.com/ghorghanlu/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![linkedin](https://user-images.githubusercontent.com/62830901/182251091-2a9b3f89-088d-4fb6-9f56-4d71e13b7308.png)](https://www.linkedin.com/in/ghorghanlu/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![medium](https://user-images.githubusercontent.com/62830901/182252155-47d01ab6-0580-47b2-9067-5c029e545fc2.png)](https://medium.com/@ghorghanlu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![researchgate](https://user-images.githubusercontent.com/62830901/182252381-3bf98578-b1ed-41a0-a898-7f3548f5d947.png)](https://www.researchgate.net/profile/Sajjad-Ghorghanlu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![orcid](https://user-images.githubusercontent.com/62830901/182252693-c75fa533-8f90-4641-8b1d-d499ca019aae.png)](https://orcid.org/0000-0001-9323-9325)
+<div align="center">
 
-<hr /> 
+  <a href="https://scholar.google.com/citations?hl=en&user=iIkrTYgAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://twitter.com/ghorghanlu">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/ghorghanlu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ghorghanlu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@ghorghanlu">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Sajjad-Ghorghanlu">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  <a href="https://orcid.org/0000-0001-9323-9325">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
 
-**I :heart: GNNs, ML & AI** <br>
-**I'm interested in** &nbsp;&nbsp; ![python](https://user-images.githubusercontent.com/62830901/182261375-b900f7c7-4d44-4d65-be58-e06e5915f97f.png) &nbsp; ![pytorch](https://user-images.githubusercontent.com/62830901/182262072-8977ceee-50e2-4ce2-8e3c-bb1e70283199.png) &nbsp; ![pyg](https://user-images.githubusercontent.com/62830901/182262308-b305d9ca-c27f-40b6-b534-070ef7f44dc9.png)
+</div>
+
+---
+
+### Research Interests
+
+- 💊 [Drug Discovery](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:drug_discovery\&utm_source=chatgpt.com)
+- 🧬 [Cancer](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:cancer\&utm_source=chatgpt.com)
+- 🤖 [Generative AI](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:generative_ai\&utm_source=chatgpt.com)
+- 🧠 [Deep Learning](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:deep_learning\&utm_source=chatgpt.com)
+- 🕸️ [Graph Neural Networks](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:graph_neural_networks\&utm_source=chatgpt.com)
+
+
+### Technologies & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Geometric"/>
+</div>
