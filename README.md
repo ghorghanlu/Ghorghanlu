@@ -5,14 +5,4 @@
 **I :heart: GNNs, ML & AI** <br>
 **I'm interested in** &nbsp;&nbsp; ![python](https://user-images.githubusercontent.com/62830901/182261375-b900f7c7-4d44-4d65-be58-e06e5915f97f.png) &nbsp; ![pytorch](https://user-images.githubusercontent.com/62830901/182262072-8977ceee-50e2-4ce2-8e3c-bb1e70283199.png) &nbsp; ![pyg](https://user-images.githubusercontent.com/62830901/182262308-b305d9ca-c27f-40b6-b534-070ef7f44dc9.png)
 
-<hr /> 
-
-### ![learning](https://user-images.githubusercontent.com/62830901/182258659-e56c86c7-005b-4512-ad81-ab75e09f7f31.png) &nbsp; Education:
-* 2019 – Present &nbsp; **PhD Student, Medical Biotechnology** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Tehran University of Medical Sciences_
-* 2012 – 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Master of Science (MSc), Medical Biotechnology** &nbsp;&nbsp;&nbsp; _Tabriz University of Medical Sciences_
-* 2008 – 2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bachelor's Degree, Clinical Laboratory Sciences** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Zanjan University of Medical Sciences_
-
-<hr /> 
-
-### ![experience](https://user-images.githubusercontent.com/62830901/182259743-64d5be12-eba1-413a-9699-d015be2145ca.png) &nbsp; Experience:
-* 2016 – 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant** &nbsp;&nbsp;&nbsp; _Golestan University of Medical Sciences_
+<hr />
