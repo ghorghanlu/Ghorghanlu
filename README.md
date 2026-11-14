@@ -1,22 +1,22 @@
 <div align="left">
 
   <a href="https://scholar.google.com/citations?hl=en&user=iIkrTYgAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="https://twitter.com/ghorghanlu">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.instagram.com/ghorghanlu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/ghorghanlu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+     <img src="https://img.shields.io/badge/%20-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.researchgate.net/profile/Sajjad-Ghorghanlu">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+    <img src="https://img.shields.io/badge/-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
   <a href="https://orcid.org/0000-0001-9323-9325">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 
 </div>
@@ -48,5 +48,5 @@
 ### My Organization
 
 <a href="https://github.com/Super-Entity">
-  <img src="https://img.shields.io/badge/GitHub%20Organization-Super--Entity-181717?style=for-the-badge&logo=github&logoColor=white" alt="Super-Entity Organization"/>
+  <img src="https://img.shields.io/badge/GitHub%20Organization-Super--Entity-181717?style=for-the-badge&logo=github&logoColor=white" alt="SuperEntity Organization"/>
 </a>
