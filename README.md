@@ -44,3 +44,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
 </div>
+
+### My Organization
+
+<a href="https://github.com/Super-Entity">
+  <img src="https://img.shields.io/badge/GitHub%20Organization-Super--Entity-181717?style=for-the-badge&logo=github&logoColor=white" alt="Super-Entity Organization"/>
+</a>
