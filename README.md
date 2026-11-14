@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <a href="https://scholar.google.com/citations?hl=en&user=iIkrTYgAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
@@ -25,17 +25,23 @@
 
 ### Research Interests
 
-- 💊 [Drug Discovery](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:drug_discovery\&utm_source=chatgpt.com)
-- 🧬 [Cancer](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:cancer\&utm_source=chatgpt.com)
-- 🤖 [Generative AI](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:generative_ai\&utm_source=chatgpt.com)
-- 🧠 [Deep Learning](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:deep_learning\&utm_source=chatgpt.com)
-- 🕸️ [Graph Neural Networks](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:graph_neural_networks\&utm_source=chatgpt.com)
+- 💊 [Drug Discovery](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:drug_discovery)
+- 🧬 [Cancer](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:cancer)
+- 🤖 [Generative AI](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:generative_ai)
+- 🧠 [Deep Learning](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:deep_learning)
+- 🕸️ [Graph Neural Networks](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:graph_neural_networks)
 
 
 ### Technologies & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Dioxus-1F2937?style=for-the-badge&logo=rust&logoColor=white" alt="Dioxus"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Geometric"/>
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6B46C1?style=for-the-badge&logo=probot&logoColor=white" alt="Hermes Agent"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
 </div>
