@@ -25,12 +25,11 @@
 
 ### Research Interests
 
-- 💊 [Drug Discovery](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:drug_discovery)
-- 🧬 [Cancer](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:cancer)
-- 🤖 [Generative AI](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:generative_ai)
-- 🧠 [Deep Learning](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:deep_learning)
-- 🕸️ [Graph Neural Networks](https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:graph_neural_networks)
-
+💊 [Drug Discovery](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:drug_discovery)  
+🧬 [Cancer](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cancer)  
+🤖 [Generative AI](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:generative_ai)  
+🧠 [Deep Learning](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning)  
+🕸️ [Graph Neural Networks](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:graph_neural_networks)
 
 ### Technologies & Tools
 
